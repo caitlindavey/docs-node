@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 import { MongoClient } from "mongodb";
+=======
+const { MongoClient } = require("mongodb");
+>>>>>>> 8627ee1 (DOCSP-30081: Fix find to find())
 
 // Replace the uri string with your MongoDB deployment's connection string.
 const uri = "<connection string uri>";
